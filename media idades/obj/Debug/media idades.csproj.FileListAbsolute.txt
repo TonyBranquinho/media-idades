@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\media idades\media idades\bin\Debug\media idades.exe.config
+C:\temp\ws-vs2019\media idades\media idades\bin\Debug\media idades.exe
+C:\temp\ws-vs2019\media idades\media idades\bin\Debug\media idades.pdb
+C:\temp\ws-vs2019\media idades\media idades\obj\Debug\media idades.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\media idades\media idades\obj\Debug\media idades.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\media idades\media idades\obj\Debug\media idades.exe
+C:\temp\ws-vs2019\media idades\media idades\obj\Debug\media idades.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "media idades", "media idades\media idades.csproj", "{6086D671-EF48-482F-991B-C4EF5B42C0F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6086D671-EF48-482F-991B-C4EF5B42C0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6086D671-EF48-482F-991B-C4EF5B42C0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6086D671-EF48-482F-991B-C4EF5B42C0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6086D671-EF48-482F-991B-C4EF5B42C0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9A13DD-B119-4E2E-8E1A-5C822D7825B4}
+	EndGlobalSection
+EndGlobal
